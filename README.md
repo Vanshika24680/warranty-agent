@@ -8,7 +8,7 @@
 
 **An AI agent that plans a customer's support case, estimates warranty, finds verified manufacturer troubleshooting steps on the live web, and raises tracked tickets, with every decision visible in a live trace.**
 
-🔗 **Live Demo:** _paste your Streamlit link here_
+🔗 **Live Demo:** https://warranty-agent-wxrjss3plojxm5e8i364xw.streamlit.app/
 
 ---
 
