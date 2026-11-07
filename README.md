@@ -232,5 +232,5 @@ Every improvement below addresses a current limitation of the system and describ
 ## 👤 Author
 
 **Vanshika Garg**
-M.Tech. Int. (AI & Data Science), DAVV.
+M.Tech. Int. (AI & Data Science), SDSF, DAVV.
 Course: Agentic AI
