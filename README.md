@@ -231,4 +231,6 @@ Every improvement below addresses a current limitation of the system and describ
 
 ## 👤 Author
 
-**Your Name** · M.Tech AI & Data Science, 9th Semester · Advanced Multi-Agent Systems · _Your Institution_
+**Vanshika Garg**
+M.Tech. Int. (AI & Data Science)
+Course: Agentic AI
